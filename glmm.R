@@ -12,7 +12,7 @@ invisible(lapply(pkgs, require, character.only = TRUE))
 prs_dir        <- "prs_results"
 sib_pair_dir   <- "new_sibling_cases"
 pop_pair_dir   <- "new_non_sibling_cases"
-pc_file        <- "../population_data/ukbb_pc1_16.txt"
+pc_file        <- "ukbb_pc1_16.txt"
 
 pheno_vec      <- c("CAD_UKBB", "T2D_UKBB",
                     "prostate_cancer_self_report",
