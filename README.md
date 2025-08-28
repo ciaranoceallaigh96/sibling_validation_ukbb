@@ -11,3 +11,5 @@ Sensitive data, filenames, or pathways have been removed or anonymized.
 **glmm_scripts** -> GWAS, clumping, and PRS scripts for mixed model-based (GLMM) GWAS 
 
 **results_scripts** -> PRS evaluation, attenuation calculation, & statistical model
+
+**data** -> raw data not available in manuscript
