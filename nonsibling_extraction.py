@@ -1,4 +1,4 @@
-#Created non-sibling pairs based on sibling pair characteristics (requires unrelated_pairs.sh to be run)
+#Created non-sibling pairs based on sibling pair characteristics (requires nonsibling_extraction.sh to be run)
 import pandas as pd
 import numpy as np
 import sys
