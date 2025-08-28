@@ -12,6 +12,6 @@ Sensitive data, filenames, or pathways have been removed or anonymized.
 
 **results_scripts** -> PRS evaluation, attenuation calculation, & statistical model
 
-**data** -> raw data not available in manuscript
+**data** -> raw data not available from manuscript
 
 **supplementary** -> code and data relevant to supplementary material
